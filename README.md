@@ -1,6 +1,7 @@
 # advent_calendar
 
-This is an advent calendar that displays the current date (just the day) by lighting up as many leds. 
+This is a simple advent calendar that displays the current date (just the day) by lighting up as many leds accordingly.
+The ESP8266 is used to get the current date (and time) via NTP.
 I use it with a led ring consisting of 24 WS2812.
 The comments are partly in German as I didn't change it yet.
 
